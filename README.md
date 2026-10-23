@@ -7,7 +7,7 @@ That is is a simple and easy tool, designed for unlock and manage DLCs for **Ris
 ## 🔗 Latest Release 
 
 - **💾 Version 2.5.0.6** – *Tool files & folders*  
-  👉 [The Latest Release]()
+  👉 [The Latest Release](https://github.com/MajorRecover55/Risk-of-Rain-2-DLC-Unlocker/releases)
   
 * **Platform:** Windows
 * **Format:** `.zip` archive
